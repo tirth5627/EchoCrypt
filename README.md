@@ -1,4 +1,5 @@
 🎵🔐 EchoCrypt
+
 Secure Audio Steganography using Diffie–Hellman Key Exchange + AES-GCM Encryption
 
 EchoCrypt is a hybrid cryptography + steganography system that securely hides encrypted data inside WAV audio files.
@@ -169,3 +170,4 @@ Het Talavia (U23AI077)
 
 Artificial Intelligence Department
 Sardar Vallabhbhai National Institute of Technology (SVNIT)
+
